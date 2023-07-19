@@ -36,6 +36,7 @@ migrate_working_dir/
 /android/app/google-services.json
 /ios/firebase_app_id_file.json
 /macos/firebase_app_id_file.json
+/macos/Runner/GoogleService-Info.plist
 /ios/Runner/GoogleService-Info.plist
 
 # Symbolication related
